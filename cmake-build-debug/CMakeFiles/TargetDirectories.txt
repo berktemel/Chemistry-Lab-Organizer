@@ -1,0 +1,3 @@
+C:/Users/Admin/Desktop/DERS/2.yil/1.dönem/CS201/HW1/cmake-build-debug/CMakeFiles/HW1.dir
+C:/Users/Admin/Desktop/DERS/2.yil/1.dönem/CS201/HW1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Desktop/DERS/2.yil/1.dönem/CS201/HW1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
